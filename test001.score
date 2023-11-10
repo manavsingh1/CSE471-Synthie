@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<score bpm="120" beatspermeasure="4">
+   <instrument instrument="AdditiveSynth">
+      <!-- Allegretto, WoO 61 by Beethoven -->
+      <note measure="1" beat="1" duration="1.5" note="A5"/>
+      <note measure="1" beat="1.5" duration="1.5" note="G5"/>
+      <note measure="1" beat="2" duration="1.5" note="F5"/>
+      <note measure="1" beat="2.5" duration="1.5" note="E5"/>
+      <note measure="2" beat="1" duration="1.5" note="D5"/>
+      <note measure="2" beat="1.5" duration="1.5" note="C5"/>
+      <note measure="2" beat="2" duration="2.5" note="D5"/>
+      <note measure="2" beat="2.5" duration="2.5" note="E5"/>
+      <note measure="3" beat="1" duration="2.5" note="E5"/>
+      <note measure="3" beat="1.5" duration="2.5" note="F5"/>
+      <note measure="3" beat="2" duration="2.5" note="G5"/>
+      <note measure="3" beat="2.5" duration="2.5" note="A5"/>
+      <!-- Repeat the pattern -->
+      <note measure="4" beat="1" duration="1.5" note="A5"/>
+      <note measure="4" beat="1.5" duration="1.5" note="G5"/>
+      <note measure="4" beat="2" duration="1.5" note="F5"/>
+      <note measure="4" beat="2.5" duration="1.5" note="E5"/>
+      <note measure="5" beat="1" duration="3.5" note="D5"/>
+      <note measure="5" beat="1.5" duration="3.5" note="C5"/>
+      <note measure="5" beat="2" duration="3.5" note="D5"/>
+      <note measure="5" beat="2.5" duration="3.5" note="E5"/>
+      <!-- Extend or repeat as needed -->
+      <note measure="1" beat="1" duration="1.5" note="A5"/>
+      <note measure="1" beat="1.5" duration="1.5" note="G5"/>
+      <note measure="1" beat="2" duration="1.5" note="F5"/>
+      <note measure="1" beat="2.5" duration="1.5" note="E5"/>
+      <note measure="2" beat="1" duration="1.5" note="D5"/>
+      <note measure="2" beat="1.5" duration="1.5" note="C5"/>
+      <note measure="2" beat="2" duration="2.5" note="D5"/>
+      <note measure="2" beat="2.5" duration="2.5" note="E5"/>
+      <note measure="3" beat="1" duration="2.5" note="E5"/>
+      <note measure="3" beat="1.5" duration="2.5" note="F5"/>
+      <note measure="3" beat="2" duration="2.5" note="G5"/>
+      <note measure="3" beat="2.5" duration="2.5" note="A5"/>
+      <!-- Repeat the pattern -->
+      <note measure="4" beat="1" duration="1.5" note="A5"/>
+      <note measure="4" beat="1.5" duration="1.5" note="G5"/>
+      <note measure="4" beat="2" duration="1.5" note="F5"/>
+      <note measure="4" beat="2.5" duration="1.5" note="E5"/>
+      <note measure="5" beat="1" duration="3.5" note="D5"/>
+      <note measure="5" beat="1.5" duration="3.5" note="C5"/>
+      <note measure="5" beat="2" duration="3.5" note="D5"/>
+      <note measure="5" beat="2.5" duration="3.5" note="E5"/>
+
+	<effect effect="chorus" rate="0.02" wet="0.25" dry="0.5"/>
+	<effect effect="reverbation" delay="0.03" wet=".5" dry="0.0"/>
+	<effect effect="flanging" delay="0.03" wet="0.2" dry="0.1" level="1"/>
+
+   </instrument>
+</score>
